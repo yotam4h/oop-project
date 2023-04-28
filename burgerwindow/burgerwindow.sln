@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burgerwindow", "burgerwindow\burgerwindow.csproj", "{66963C51-7C20-4342-9932-64D66A3568D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66963C51-7C20-4342-9932-64D66A3568D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66963C51-7C20-4342-9932-64D66A3568D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66963C51-7C20-4342-9932-64D66A3568D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66963C51-7C20-4342-9932-64D66A3568D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6B9317-2A84-4F3F-87A1-267C4985170B}
+	EndGlobalSection
+EndGlobal

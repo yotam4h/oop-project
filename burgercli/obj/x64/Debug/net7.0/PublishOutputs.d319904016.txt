@@ -1,0 +1,5 @@
+C:\Users\yotam\Documents\HIT\csharp\burgercli\output\burgercli.exe
+C:\Users\yotam\Documents\HIT\csharp\burgercli\output\burgercli.dll
+C:\Users\yotam\Documents\HIT\csharp\burgercli\output\burgercli.deps.json
+C:\Users\yotam\Documents\HIT\csharp\burgercli\output\burgercli.runtimeconfig.json
+C:\Users\yotam\Documents\HIT\csharp\burgercli\output\burgercli.pdb

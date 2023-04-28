@@ -1,0 +1,17 @@
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\bin\Debug\net6.0-windows\burgerwindow.exe
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\bin\Debug\net6.0-windows\burgerwindow.deps.json
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\bin\Debug\net6.0-windows\burgerwindow.runtimeconfig.json
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\bin\Debug\net6.0-windows\burgerwindow.dll
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\bin\Debug\net6.0-windows\burgerwindow.pdb
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.csproj.AssemblyReference.cache
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.Form1.resources
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.csproj.GenerateResource.cache
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.AssemblyInfoInputs.cache
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.AssemblyInfo.cs
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.csproj.CoreCompileInputs.cache
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.dll
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\refint\burgerwindow.dll
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.pdb
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\burgerwindow.genruntimeconfig.cache
+C:\Users\yotam\Documents\HIT\csharp\burgerwindow\burgerwindow\obj\Debug\net6.0-windows\ref\burgerwindow.dll
